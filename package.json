@@ -1,0 +1,19 @@
+{
+  "name": "gpio-lite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gpio.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/siddick/gpio-lite.git"
+  },
+  "author": "siddick",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/siddick/gpio-lite/issues"
+  },
+  "homepage": "https://github.com/siddick/gpio-lite"
+}
