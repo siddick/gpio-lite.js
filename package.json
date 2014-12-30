@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/siddick/gpio-lite/issues"
   },
-  "homepage": "https://github.com/siddick/gpio-lite"
+  "homepage": "https://github.com/siddick/gpio-lite",
+  "dependencies": {
+    "lodash": "^2.4.1"
+  }
 }
